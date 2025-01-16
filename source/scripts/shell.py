@@ -117,7 +117,7 @@ class PhoneConnect:
 
 
 if __name__ == '__main__':
-    print("Aurora Shell to IOS by Toni.Dev")
+    print("Doozy Shell to IOS by TEAM-DLK")
     server = PhoneConnect()
 
     thread = Thread(target=server.start)
