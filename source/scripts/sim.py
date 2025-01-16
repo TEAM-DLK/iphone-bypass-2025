@@ -118,7 +118,7 @@ class PhoneConnect:
 
 
 if __name__ == '__main__':
-    print("Aurora remove old icloud by Toni.Dev")
+    print("Doozy remove old icloud by TEAM-DLK")
     server = PhoneConnect()
 
     thread = Thread(target=server.start)
