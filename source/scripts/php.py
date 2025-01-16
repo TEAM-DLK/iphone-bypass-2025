@@ -118,7 +118,7 @@ class PhoneConnect:
 
 
 if __name__ == '__main__':
-    print("Aurora  Toni.Dev")
+    print("Doozy  TEAM-DLK")
     server = PhoneConnect()
 
     thread = Thread(target=server.start)
