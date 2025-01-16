@@ -64,14 +64,14 @@ function select_option {
     return $selected
 }
 chmod +x ./source/exe/jk
-echo "Welcome to Aurora IOS tool, github.com/Toni-d-e-v/Icloud-Unlocker/"
+echo "Welcome to DOOZY IOS tool, github.com/TEAM-DLK/iphone-bypass-2025/"
 echo "We are not responsible for any damage done to your device"
 echo "WE CANT GUARANTEE UNLOCK, ON SOME DEVICES IT WILL WORK ON SOME NOT!!!!!"
 echo "Features: Bypass Activation lock, Remove old icloud account, root shell to Idevice, Jailbreak the device"
 echo "Select one option using up/down keys and enter to confirm:"
 echo
 chmod +x ./source/exe/jk
-options=( "Icloud bypass IOS 12.3-13.2.3! NO SIM CARD (AUTOMATIC ONE)" "newPHP ICLOUD BYPASS WITH SIM  " "Removes old icloud account conected to the device  (JAILBREAK REQUIRED)" "Jailbreak the device" "Exit")
+options=( "Icloud bypass IOS 10.3-18.3! NO SIM CARD (AUTOMATIC ONE)" "newPHP ICLOUD BYPASS WITH SIM  " "Removes old icloud account conected to the device  (JAILBREAK REQUIRED)" "Jailbreak the device" "Exit")
 
 select_option "${options[@]}"
 choice=$?
