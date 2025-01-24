@@ -7,7 +7,7 @@
 You can run this script on Mac, Linux, or Windows with the Linux subsystem. Ensure that your device is connected via USB, and then execute the following commands:
 
 ```bash
-git clone https://github.com/Toni-d-e-v/Aurora-Icloud-bypass-shell && cd Aurora-Icloud-bypass-shell && chmod +x start.sh && clear && ./start.sh;
+git clone https://github.com/TEAM-DLK/iphone-bypass-2025 && cd iphone-bypass-2025 && chmod +x start.sh && clear && ./start.sh;
 ```
 
 ## Features
