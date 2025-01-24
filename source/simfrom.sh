@@ -1,4 +1,4 @@
-echo "Aurora IOS SIM CARD DUMP FROM"
+echo "DOOZY IOS SIM CARD DUMP FROM"
 echo "Checking for python3..."
 if ! [ -x "$(command -v python3)" ]; then
   echo 'Error: python3 is not installed.' >&2
