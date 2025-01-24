@@ -1,6 +1,5 @@
 <?php
 
-
 /**
  * Random Number Generator
  *
