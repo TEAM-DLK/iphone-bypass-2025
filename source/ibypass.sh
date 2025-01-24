@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# iCloud Unlock Aurora 0.1
-echo "Welcome to iCloud Unlock Aurora 0.1, github.com/Toni-d-e-v/Icloud-Unlocker/"
+# iCloud Unlock
+echo "Welcome to iCloud Unlock DOOZY"
 echo "To make this exploit work, we will launch checkra1n jailbreak. Please follow the instructions and do not close the terminal."
 echo "If you want to exit the script, press Ctrl+C."
 read -p "Press enter to continue"
