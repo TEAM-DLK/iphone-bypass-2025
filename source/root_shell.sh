@@ -1,5 +1,5 @@
 
-echo "Aurora IOS root shell, ONLY WORKS ON JAILBROKEN IPHONES"
+echo "DOOZY IOS root shell, ONLY WORKS ON JAILBROKEN IPHONES"
 echo "Checking for python3..."
 if ! [ -x "$(command -v python3)" ]; then
   echo 'Error: python3 is not installed.' >&2
