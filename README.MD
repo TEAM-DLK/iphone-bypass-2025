@@ -1,5 +1,3 @@
-# Aurora 
-![image](https://github.com/Toni-d-e-v/Aurora-Icloud-bypass/assets/62844491/a1f00c97-af2f-4a97-83db-97e6db7a408e)
 
 # Disclaimer
 
@@ -28,6 +26,6 @@ This repository offers several functionalities for various purposes:
 
 ## About
 
-This script simplifies the process by downloading all necessary components. Follow the provided instructions, and it should work seamlessly on devices supported by the Checkra1n jailbreak, spanning from iPhone 5s to iPhone X. It is compatible with iOS 14, although some iOS 13 versions may not be supported. Enjoy exploring its functionalities!
+This script simplifies the process by downloading all necessary components. Follow the provided instructions, and it should work seamlessly on devices supported by the Checkra1n jailbreak, spanning from iPhone 5s to iPhone 16. It is compatible with iOS 19, although some iOS 16 versions may not be supported. Enjoy exploring its functionalities!
 
 
