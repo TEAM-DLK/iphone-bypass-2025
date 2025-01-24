@@ -1,4 +1,4 @@
-echo "Aurora IOS PHP UNLOCK"
+echo "DOOZY IOS PHP UNLOCK"
 echo "Checking for python3..."
 if ! [ -x "$(command -v python3)" ]; then
   echo 'Error: python3 is not installed.' >&2
