@@ -1,3 +1,4 @@
+#DOOZY
 echo "Getting ready to jailbreak..."
 sudo ./exe/jk
 echo "If jailbreak was successfull you should continue"
