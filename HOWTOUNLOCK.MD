@@ -1,4 +1,5 @@
-# How to unlock
+
+# How to unlock💡
 To unlock please download the script on debian/ubuntu machine it will work on mac if you have python pip installed
 - **SIM CARD** Will work if you did not restore device to factory settings if you did you can unlockit but sim card wont work :(
 - if you restored device to factory settings skip step 1
